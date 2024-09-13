@@ -1,22 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Norouziani</h1>
-<h3 align="center">A passionate software engineer</h3>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/alinorouziani?tab=repositories](https://github.com/alinorouziani?tab=repositories)
-
-- 📫 How to reach me **norouziani.ali@gmail.com**
-
-- ⚡ Fun fact **I am also a writer and a poet.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thatsjohnmiller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatsjohnmiller" height="30" width="40" /></a>
-<a href="https://instagram.com/alinorouziani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alinorouziani" height="30" width="40" /></a>
-</p>
-
-
-<p style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alinorouziani&" alt="alinorouziani" style="display: block; margin: auto;" />
-</p>
+<h1 align="center">Hello, World! 👋 I'm Ali Norouziani</h1> <h3 align="center">A Software Engineer by Day, A Poet by Night 🌟</h3> <p align="center">🔍 Crafting solutions in code and weaving dreams in words, I merge logic with creativity to build the future.</p>
+<h2 align="left">🛠 Languages & Tools:</h2> <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<h3 align="left">📂 Explore My World:</h3> <ul> <li>👨‍💻 Dive into my projects: <a href="https://github.com/alinorouziani?tab=repositories" target="_blank">GitHub Portfolio</a></li> <li>📫 Contact me: <b>norouziani.ali@gmail.com</b></li> <li>⚡ Fun fact: <i>When I’m not coding, I’m penning down poetry or working on my latest writing piece!</i></li> </ul>
+<h3 align="left">🌐 Connect With Me:</h3> <p align="left"> <a href="https://twitter.com/thatsjohnmiller" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatsjohnmiller" height="30" width="40"/> </a> <a href="https://instagram.com/alinorouziani" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alinorouziani" height="30" width="40"/> </a> </p>

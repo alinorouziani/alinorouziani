@@ -17,6 +17,6 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinorouziani&show_icons=true&locale=en&layout=compact" alt="alinorouziani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alinorouziani&" alt="alinorouziani" /></p>
+<p style="text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alinorouziani&" alt="alinorouziani" style="display: block; margin: auto;" />
+</p>
